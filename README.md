@@ -44,9 +44,11 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![Screenshot (38)](https://github.com/Monishofficial/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149455421/02f5d1b3-f126-4fb1-89ec-ba0ae7a24793)
+![Screenshot (39)](https://github.com/Monishofficial/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149455421/0e06cb2a-2f29-4955-8eb3-0a63a11e1cd1)
 
-### Name:
-### Register Number:
+### Name: MONISH N
+### Register Number: 23013301
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
