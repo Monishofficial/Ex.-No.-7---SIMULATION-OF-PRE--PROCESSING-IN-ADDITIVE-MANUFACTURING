@@ -1,5 +1,5 @@
 # Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 7\11\2023
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -48,7 +48,7 @@
 ![Screenshot (39)](https://github.com/Monishofficial/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149455421/0e06cb2a-2f29-4955-8eb3-0a63a11e1cd1)
 
 ### Name: MONISH N
-### Register Number: 23013301
+### Register Number: 212223240097
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
